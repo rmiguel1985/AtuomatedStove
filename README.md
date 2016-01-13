@@ -1,4 +1,4 @@
-# AtuomatedStove
+# AutomatedStove
 Automated stove system with Arduino and RaspberryPi2
 
 ## Details 
